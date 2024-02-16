@@ -10,5 +10,7 @@
 farida-bano/farida-bano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-GOVERNOR INITIATIVE FOR ARTIFICIAL INTELLIGENCE, WEB 3.0 & METAVERSE (GOVERNOR INITIATIVE)
-class was good .the teacher taught well .First install note.js.Next we installed the type script.Went to the terminal and checked everyone's version.People on T Script wrote the World Program .The teacher made us practice in the last .And then we were given the assignment which was on slide number 125
+GOVERNOR INITIATIVE FOR ARTIFICIAL  INTELLIGENCE, WEB 3.0 & METAVERSE (GOVERNOR INITIATIVE)
+class was  too good.The teacher taught well .First inst all note.js.Next we installed the type script.Went to the terminal and checked everyone's version.People on T Script wrote the World Program .The teacher made us practice in the last .And then we were given the assignment which was on slide number 125.
+i love Pakistan.
+we are Pakistani.
