@@ -13,6 +13,7 @@
 - ⚡ Fun fact: art & craft ,chrochet work & knitting.
 I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, & Metaverse (Governor Initiative). So far, I have learned a great deal, including coding in TypeScript, Next.js, and many other technologies. I am extremely grateful for the opportunity and would like to thank everyone who has supported me on this journey.
 
+**raw**
 ![Alt Text](image-url)
  
 https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk
@@ -21,7 +22,28 @@ https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWX
 
 ![Image](https://i.imgur.com/345678.jpg)
 
-![Image](https://www.yourwebsite.com/images/345678.jpg)
+![Image](https://www.yourwebsite.com/images/345678.jpg) 
+
+![Image](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/345678.jpg)
+
+![Birds over water](https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk)
+
+![Image](https://i.imgur.com/345678.jpg)
+
+https://github.com/your-username/repository-name/blob/main/path-to-image/your-image.jpg
+
+https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/your-image.jpg
+
+# Yeh Heading Hai (Largest Heading)
+## Yeh Sub-Heading Hai (Second Largest Heading)
+### Yeh Third Heading Hai
+
+**Yeh Bold Text Hai**
+
+[Google](https://www.google.com)
+
+![Image](https://example.com/image.jpg)
+
 
 
 
