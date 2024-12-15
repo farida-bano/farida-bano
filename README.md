@@ -1,4 +1,4 @@
-<div style="background-image: url('https://example.com/345678.jpg'); padding: 80px;">
+<div style="bg-pink  padding: 80px;">
   <h1>Welcome to My GitHub!</h1>
   <p>Explore my repositories.</p>
 </div>
