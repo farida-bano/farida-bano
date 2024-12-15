@@ -6,33 +6,17 @@
 - 😄 Pronouns:Farida
 - ⚡ Fun fact: art & craft ,chrochet work & knitting.
 I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, & Metaverse (Governor Initiative). So far, I have learned a great deal, including coding in TypeScript, Next.js, and many other technologies. I am extremely grateful for the opportunity and would like to thank everyone who has supported me on this journey.
+
 ![Alt Text](image-url)
+
 ![Background Image](https://images.unsplash.com/photo-1506748686210-b8fa9c014dff)
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
-    <style>
-        body {
-            background-image: url('https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/image.jpg');
-            background-size: cover;
-            color: white;
-            text-align: center;
-            padding: 100px;
-        }
-        h1 {
-            font-size: 50px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to My GitHub!</h1>
-    <p>Explore my projects and repositories!</p>
-</body>
-</html>
+<div style="background-image: url('https://example.com/background.jpg'); padding: 50px;">
+  <h1>Welcome to My GitHub!</h1>
+  <p>Explore my repositories.</p>
+</div>
+
+
 
 
