@@ -25,8 +25,6 @@ https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWX
 
 ![Image](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/345678.jpg)
 
-![Birds over water](https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk)
-
 ![Image](https://i.imgur.com/345678.jpg)
 
 https://github.com/your-username/repository-name/blob/main/path-to-image/your-image.jpg
