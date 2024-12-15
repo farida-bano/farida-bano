@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @farida-bano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-farida-bano/farida-bano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-GOVERNOR INITIATIVE FOR ARTIFICIAL  INTELLIGENCE, WEB 3.0 & METAVERSE (GOVERNOR INITIATIVE)
-class was  too good.The teacher taught well .First inst all note.js.Next we installed the type script.Went to the terminal and checked everyone's version.People on T Script wrote the World Program .The teacher made us practice in the last .And then we were given the assignment which was on slide number 125.
-i love Pakistan.
-we are Pakistani.
+- 👋 Hi, I’m Farida-bano
+- 👀 I’m interested in web development & graphic design.
+- 🌱 I’m currently learning html,java,css,typescript ,next.js ,tailwindcss ,shadcn,figma and canva.
+- 💞️ I’m looking to collaborate on UI/UX design
+- 📫 How to reach me https://www.linkedin.com/in/farida-bano-1b3b282b6/
+- 😄 Pronouns:Farida
+- ⚡ Fun fact: art & craft ,chrochet work & knitting.
+I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, & Metaverse (Governor Initiative). So far, I have learned a great deal, including coding in TypeScript, Next.js, and many other technologies. I am extremely grateful for the opportunity and would like to thank everyone who has supported me on this journey.
