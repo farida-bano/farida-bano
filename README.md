@@ -14,7 +14,7 @@ I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, 
 
 ![Alt Text](image-url)
  
-(https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk)
+https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk
 
 ![Image](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/345678.jpg)
 
