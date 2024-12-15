@@ -9,7 +9,7 @@ I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, 
 
 ![Alt Text](image-url)
 
-![Background Image](https://images.unsplash.com/photo-1506748686210-b8fa9c014dff)
+https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk
 
 
 <div style="background-image: url('https://example.com/background.jpg'); padding: 50px;">
