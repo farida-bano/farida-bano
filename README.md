@@ -1,7 +1,8 @@
-<div style="bg-pink  padding: 80px;">
-  <h1>Welcome to My GitHub!</h1>
-  <p>Explore my repositories.</p>
+<div style="background-color: pink; padding: 80px;">
+  <h1 style="font-weight: bolder; font-style: italic; text-decoration: underline; color: white;">Welcome to My GitHub!</h1>
+  <p style="font-weight: 600; background-color: lightblue; color: darkblue;">Explore my repositories.</p>
 </div>
+
 
 - 👋 Hi, I’m Farida-bano
 - 👀 I’m interested in web development & graphic design.
