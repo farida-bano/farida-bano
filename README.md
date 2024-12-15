@@ -14,8 +14,6 @@
 I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, & Metaverse (Governor Initiative). So far, I have learned a great deal, including coding in TypeScript, Next.js, and many other technologies. I am extremely grateful for the opportunity and would like to thank everyone who has supported me on this journey.
 
 ![Alt Text](image-url)
- 
-https://unsplash.com/photos/a-couple-of-birds-flying-over-a-body-of-water-nsOEWXw0LUk
 
 ![Image](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/345678.jpg)
 
