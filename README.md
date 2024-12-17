@@ -1,3 +1,7 @@
+# Main Title Farida Bano
+## Subsection Giaic
+### Smaller Section Karachi
+
 <div style="background-color: pink; padding: 80px;">
   <h1 style="font-weight: bolder; font-style: italic; text-decoration: underline; color: white;">Welcome to My GitHub!</h1>
   <p style="font-weight: 600; background-color: lightblue; color: darkblue;">Explore my repositories.</p>
