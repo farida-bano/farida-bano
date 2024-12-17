@@ -23,16 +23,25 @@ https://www.linkedin.com/in/farida-bano-1b3b282b6/
 
 ## Welcome to My GitHub!# Explore my repositories
 
-### 🖼️ Project Highlights
+#### 🚀 Project Highlights
+
 Here’s a glimpse of my recent work:
 
-Project Preview
+## 🖼️ Project Preview  
+![Project Screenshot](https://link-to-your-screenshot.png)
 
+---
 
-Feature 1
+## ✨ Features  
+- **Feature 1**: Add a brief description of the feature here.  
+- **Feature 2**: Add another brief description here.  
 
+---
 
-Feature 2
+## 📂 Project Links  
+- **Live Preview**: [Project Live Link](https://example.com)  
+- **Source Code**: [GitHub Repository](https://github.com/username/repository)  
+
 
 ## 🎓 About My Education
 I am currently studying as part of the Governor Initiative for Gen AI, Web 3.0, and Metaverse in Karachi, Pakistan. I am enthusiastic about combining my coding and design skills to create beautiful projects.
