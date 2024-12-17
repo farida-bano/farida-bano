@@ -21,7 +21,7 @@ Tailwind CSS
 ## 🔗 Connect with Me 
 https://www.linkedin.com/in/farida-bano-1b3b282b6/
 
-## Welcome to My GitHub!
+## Welcome to My GitHub!# Explore my repositories
 
 ### 🖼️ Project Highlights
 Here’s a glimpse of my recent work:
@@ -41,16 +41,4 @@ I am currently studying as part of the Governor Initiative for Gen AI, Web 3.0, 
 If you like my work, feel free to ⭐ my repositories and connect with me. 😊  
 
 ![Thank You](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/thankyou.jpg)
-
-
-
-
-
-
-
-
-
-
-
-## Explore my repositories
 
