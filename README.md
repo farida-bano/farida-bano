@@ -1,3 +1,8 @@
+🌟 Welcome to My GitHub Profile! 🌟
+
+🚀 About Me
+👋 Hi, I’m Farida Bano!
+I am a passionate web developer and aspiring UI/UX designer. Currently, I am learning cutting-edge technologies as part of the Governor Initiative for Gen AI, Web 3.0, and Metaverse.
 # Farida Bano
 ## Student at GIAIC Governor Sindh Initiative for Gen AI ,Web 3 and Metaverse.
 ### Karachi.Pakistan
