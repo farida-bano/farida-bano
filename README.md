@@ -1,6 +1,7 @@
-Farida Bano
-Student at GIAIC Governor Sindh Initiative for Gen AI ,Web 3 and Metaverse.
-Karachi
+# Farida Bano
+## Student at GIAIC Governor Sindh Initiative for Gen AI ,Web 3 and Metaverse.
+### Karachi.Pakistan
+
 
 <div style="background-color: pink; padding: 80px;">
   <h1 style="font-weight: bolder; font-style: italic; text-decoration: underline; color: white;">Welcome to My GitHub!</h1>
