@@ -18,6 +18,12 @@
 - ⚡ Fun fact: art & craft ,chrochet work & knitting.
 I am a student of the Governor Initiative for Artificial Intelligence, Web 3.0, & Metaverse (Governor Initiative). So far, I have learned a great deal, including coding in TypeScript, Next.js, and many other technologies. I am extremely grateful for the opportunity and would like to thank everyone who has supported me on this journey.
 
+<span style="color: #FF6347;">This text is in tomato red!</span>
+<span style="color: #4CAF50;">This is green text!</span>
+
+<span style="background-color: yellow;">Highlighted text with background</span>
+
+
 ![Alt Text](image-url)
 
 ![Image](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/345678.jpg)
