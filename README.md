@@ -30,7 +30,7 @@ Currently, I am learning cutting-edge technologies as part of the **Governor Ini
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farida-bano-1b3b282b6/)
-
+[!]Youtube]( www.youtube.com/@artcrft1160)
 ---
 
 ## 🚀 Project Highlights  
