@@ -72,5 +72,7 @@ If you like my work, feel free to ⭐ my repositories and connect with me. 😊
 
 <img align="left" alt="Coder GIF" height="250" width="350" src="farida.gif" />
 
+<img align="left" alt="Coder GIF" height="250" width="350" src="thank.gif" />
+
 
 
