@@ -38,8 +38,8 @@ Currently, I am learning cutting-edge technologies as part of the **Governor Ini
 Here’s a glimpse of my recent work:  
 
 ### 🖼️ Project Preview  
-![Project Screenshot](https://link-to-your-screenshot.png)  
-
+![Project Screenshot](screenshot%20me.png)
+  
 ---
 
 ### ✨ Features  
