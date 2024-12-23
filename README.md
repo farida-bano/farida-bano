@@ -1,5 +1,5 @@
 # 🌟 Welcome to My GitHub Profile! 🌟  
-![logo](202.png)
+![logo](302.png)
 
 ### 👋 Hi, I’m **Farida Bano**!  
 
