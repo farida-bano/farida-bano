@@ -7,7 +7,9 @@ I am a passionate web developer and aspiring UI/UX designer.
 Currently, I am learning cutting-edge technologies as part of the **Governor Initiative for Gen AI, Web 3.0, and Metaverse**.
 
 **📍 Location:** Karachi, Pakistan  
-<img align="right" alt="coding!" width="400" src="https://user-images.githubusercontent.com/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f646449">
+
+<img align="left" alt="Coder GIF" height="250" width="350" src="farida.png" />
+
 
 ---
 
