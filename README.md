@@ -63,10 +63,14 @@ I am currently studying as part of the **Governor Initiative for Gen AI, Web 3.0
 I am enthusiastic about combining my coding and design skills to create beautiful, functional projects.  
 
 ---
-<img align="left" alt="Coder GIF" height="250" width="350" src="farida.png" />
 
 ## ❤️ Thank You for Visiting!  
 
 If you like my work, feel free to ⭐ my repositories and connect with me. 😊  
 
-![Thank You](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/thankyou.jpg)  
+![Thank You](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/thankyou.jpg) 
+
+![<img align="left" alt="Coder GIF" height="250" width="350" src="farida.png" />]
+
+
+
