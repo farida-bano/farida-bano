@@ -70,7 +70,7 @@ If you like my work, feel free to ⭐ my repositories and connect with me. 😊
 
 ![Thank You](https://raw.githubusercontent.com/your-username/repository-name/main/path-to-image/thankyou.jpg) 
 
-<img align="left" alt="Coder GIF" height="250" width="350" src="farida.png" />
+<img align="left" alt="Coder GIF" height="250" width="350" src="farida.gif" />
 
 
 
