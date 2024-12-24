@@ -39,16 +39,15 @@ Here’s a glimpse of my recent work:
 
 ---
 ### 🖼️ Project Preview  
-<img align="left" alt="Coder GIF" height="200" width="200" src="902.png" />
+<img align="left" alt="Coder GIF" height="200" width="210" src="902.png" />
 
-<img align="left" alt="Coder GIF" height="200" width="200" src="903.png" />
+<img align="left" alt="Coder GIF" height="200" width="210" src="903.png" />
 
-<img align="left" alt="Coder GIF" height="200" width="200" src="901.png" />
+<img align="left" alt="Coder GIF" height="200" width="210" src="901.png" />
 
-<img align="left" alt="Coder GIF" height="200" width="200" src="904.png" />
+<img align="left" alt="Coder GIF" height="200" width="210" src="904.png" />
 
----
----
+
 ### ✨ Features  
 - **Feature 1**:I created a project in four parts: In the first part, I implemented a user login and registration system with username, password, a search bar, and social media links. The second part involves a transaction feature where users can enter the amount, card number, transaction type, and submit the transaction. 
 - **Feature 2**: In the third part, I added transaction history functionality, allowing users to view, clear, and download their transaction history, with the ability to filter transactions from the last two weeks. Finally, I included a footer at the bottom of the page for a complete layout..   
