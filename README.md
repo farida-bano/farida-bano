@@ -39,7 +39,7 @@ Here’s a glimpse of my recent work:
 
 ---
 ### 🖼️ Project Preview  
-<img align="left" alt="Coder GIF" height="200" width="210" src="902.png" />
+<img align="left" alt="Coder GIF" height="220" width="210" src="902.png" />
 
 
 
