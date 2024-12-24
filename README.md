@@ -29,7 +29,7 @@ Currently, I am learning cutting-edge technologies as part of the **Governor Ini
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farida-bano-1b3b282b6/) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@artcrft1160) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourusername)
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook)](https://www.facebook.com/yourusername)[![NPM](https://img.shields.io/badge/NPM-Package-orange?logo=npm)](https://www.npmjs.com/~yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100010806577148)[![NPM](https://img.shields.io/badge/NPM-Package-orange?logo=npm)](https://www.npmjs.com/~fari32086)
 
 ---
 
