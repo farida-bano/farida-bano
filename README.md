@@ -37,6 +37,7 @@ Currently, I am learning cutting-edge technologies as part of the **Governor Ini
 
 Here’s a glimpse of my recent work:  
 
+---
 ### 🖼️ Project Preview  
 <img align="left" alt="Coder GIF" height="200" width="200" src="902.png" />
 
@@ -46,6 +47,7 @@ Here’s a glimpse of my recent work:
 
 <img align="left" alt="Coder GIF" height="200" width="200" src="904.png" />
 
+---
 ---
 ### ✨ Features  
 - **Feature 1**:I created a project in four parts: In the first part, I implemented a user login and registration system with username, password, a search bar, and social media links. The second part involves a transaction feature where users can enter the amount, card number, transaction type, and submit the transaction. 
