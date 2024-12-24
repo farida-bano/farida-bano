@@ -39,7 +39,7 @@ Here’s a glimpse of my recent work:
 
 ### 🖼️ Project Preview  
 
-![Project Screenshot](./screenshot%20me.png)
+![Project Screenshot](./screenshot%20902.png)
 
   
 ---
