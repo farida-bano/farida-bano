@@ -41,11 +41,7 @@ Here’s a glimpse of my recent work:
 ### 🖼️ Project Preview  
 <img align="left" alt="Coder GIF" height="200" width="210" src="902.png" />
 
-<img align="left" alt="Coder GIF" height="200" width="210" src="903.png" />
 
-<img align="left" alt="Coder GIF" height="200" width="210" src="901.png" />
-
-<img align="left" alt="Coder GIF" height="200" width="210" src="904.png" />
 
 
 ### ✨ Features  
