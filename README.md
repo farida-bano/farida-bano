@@ -38,10 +38,12 @@ Currently, I am learning cutting-edge technologies as part of the **Governor Ini
 Here’s a glimpse of my recent work:  
 
 ### 🖼️ Project Preview  
-
-
 <img align="left" alt="Coder GIF" height="200" width="250" src="902.png" />
-  
+
+<img align="left" alt="Coder GIF" height="200" width="250" src="903.png" />
+
+<img align="left" alt="Coder GIF" height="200" width="250" src="901.png" />
+
 ---
 
 ### ✨ Features  
