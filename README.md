@@ -39,8 +39,8 @@ Here’s a glimpse of my recent work:
 
 ### 🖼️ Project Preview  
 
-![Project Screenshot](./screenshot%20902.png)
-![logo](902.png)
+![Project Screenshot](902.png)
+
   
 ---
 
