@@ -59,6 +59,14 @@ Here’s a glimpse of my recent work:
 
 I am currently studying as part of the **Governor Initiative for Gen AI, Web 3.0, and Metaverse** in Karachi, Pakistan.  
 I am enthusiastic about combining my coding and design skills to create beautiful, functional projects.  
+🤖 AI Integration Engineer | Full Stack Dev
+📍 Building intelligent apps with Python & Next.js
+🔧 Specializing in AI SDKs & Agent frameworks
+📘 Author: "Modern AI Tools: SpeakItPlus to Gemini CLI"
+🎓 GIAIC Governor Sindh | AI & Cloud Technologies
+
+Tech Stack: Next.js, Python, AI SDKs, Qwen Cloud, Gemini, 
+           Docusaurus, Prompt Engineering, Agent Systems
 
 ---
 
