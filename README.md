@@ -3,7 +3,7 @@
 
 ### 👋 Hi, I’m **Farida Bano**!  
 
-I am a passionate web developer and aspiring UI/UX Designer.  
+I am a passionate Web Developer and aspiring UI/UX Designer.  
 🤖 **AI Integration Engineer | Full Stack Developer**  
 📍 Building intelligent apps with **Python & Next.js**  
 🔧 Specializing in **AI SDKs & Agent frameworks**  
@@ -31,7 +31,7 @@ I am a passionate web developer and aspiring UI/UX Designer.
 ## 🚀 Project Highlights  
 
 ### 💳 Fintech Web Application (Feature Preview)
-<img align="left" alt="Coder GIF" height="200" width="220" src="902.png" />
+<img align="left" alt="Fintech App" height="200" width="220" src="902.png" />
 
 **Project Overview:** 
 I developed a comprehensive fintech web application divided into four key phases:
@@ -57,47 +57,12 @@ I am enthusiastic about combining my coding and design skills to create beautifu
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farida-bano-1b3b282b6/) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@artcrft1160) [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=inst
-agram)](https://www.instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/farida-bano-1b3b282b6/) 
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@artcrft1160) 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://x.com/FaridaBano12?s=08)
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100010806577148)[![NPM](https://img.shields.io/badge/NPM-Package-orange?logo=npm)](https://www.npmjs.com/~fari32086)
-
----
-
-## 🚀 Project Highlights  
-
-Here’s a glimpse of my recent work:  
-
----
-### 🖼️ Project Preview  
-<img align="left" alt="Coder GIF" height="220" width="210" src="902.png" />
-
-
-
-
-### ✨ Features  
-- **Feature 1**:I created a project in four parts: In the first part, I implemented a user login and registration system with username, password, a search bar, and social media links. The second part involves a transaction feature where users can enter the amount, card number, transaction type, and submit the transaction. 
-- **Feature 2**: In the third part, I added transaction history functionality, allowing users to view, clear, and download their transaction history, with the ability to filter transactions from the last two weeks. Finally, I included a footer at the bottom of the page for a complete layout..   
----
-
-### 📂 Project Links  
-- **Live Preview**: [View Live Project](https://example.com)  
-- **Source Code**: [GitHub Repository](https://github.com/username/repository)  
-
----
-
-## 🎓 About My Education  
-
-I am currently studying as part of the **Governor Initiative for Gen AI, Web 3.0, and Metaverse** in Karachi, Pakistan.  
-I am enthusiastic about combining my coding and design skills to create beautiful, functional projects.  
-🤖 AI Integration Engineer | Full Stack Dev
-📍 Building intelligent apps with Python & Next.js
-🔧 Specializing in AI SDKs & Agent frameworks
-📘 Author: "Modern AI Tools: SpeakItPlus to Gemini CLI"
-🎓 GIAIC Governor Sindh | AI & Cloud Technologies
-
-Tech Stack: Next.js, Python, AI SDKs, Qwen Cloud, Gemini, 
-           Docusaurus, Prompt Engineering, Agent Systems
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook)](https://www.facebook.com/profile.php?id=100010806577148)
+[![NPM](https://img.shields.io/badge/NPM-Package-orange?logo=npm)](https://www.npmjs.com/~fari32086)
 
 ---
 
@@ -105,27 +70,7 @@ Tech Stack: Next.js, Python, AI SDKs, Qwen Cloud, Gemini,
 
 If you like my work, feel free to ⭐ my repositories and connect with me. 😊  
 
-<img align="left" alt="Coder GIF" height="250" width="350" src="farida.gif" />
-
-<img align="left" alt="Coder GIF" height="200" width="250" src="you.gif" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img align="center" alt="Coder GIF" height="250" width="350" src="farida.gif" />
+  <img align="center" alt="Coder GIF" height="200" width="250" src="you.gif" />
+</p>
