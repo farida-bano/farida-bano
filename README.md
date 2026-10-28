@@ -1,4 +1,5 @@
-# 🌟 Welcome to My GitHub Profile! 🌟  
+# 🌟 Welcome to My GitHub Profile! 🌟 
+<img src="banner.svg" alt="Farida Bano - Student at GIAIC" width="100%">
 ![logo](302.png)
 
 ### 👋 Hi, I’m **Farida Bano**!  
